@@ -1,0 +1,101 @@
+{
+    "cocktails": [
+      {
+        "name": "Mojito",
+        "ingredients": [
+          { "name": "Ron", "quantity": "50 ml" },
+          { "name": "Lima/Limón", "quantity": "40 ml de jugo" },
+          { "name": "Menta", "quantity": "8 hojas" },
+          { "name": "Azúcar", "quantity": "2 cucharadas" },
+          { "name": "Soda", "quantity": "100 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Caipirinha",
+        "ingredients": [
+          { "name": "Cachaça", "quantity": "50 ml" },
+          { "name": "Lima/Limón", "quantity": "40 ml de jugo" },
+          { "name": "Azúcar", "quantity": "2 cucharadas" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Daiquiri de Fresa",
+        "ingredients": [
+          { "name": "Ron", "quantity": "50 ml" },
+          { "name": "Frutilla", "quantity": "5 unidades" },
+          { "name": "Azúcar", "quantity": "2 cucharadas" },
+          { "name": "Lima/Limón", "quantity": "30 ml de jugo" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Tequila Sunrise",
+        "ingredients": [
+          { "name": "Tequila", "quantity": "50 ml" },
+          { "name": "Naranja", "quantity": "100 ml de jugo" },
+          { "name": "Jarabe de Arándanos", "quantity": "10 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Gin Tonic",
+        "ingredients": [
+          { "name": "Gin", "quantity": "50 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" },
+          { "name": "Soda", "quantity": "150 ml" },
+          { "name": "Romero", "quantity": "1 rama" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Piña Colada",
+        "ingredients": [
+          { "name": "Ron", "quantity": "50 ml" },
+          { "name": "Durazno", "quantity": "30 ml de puré" },
+          { "name": "Azúcar", "quantity": "2 cucharadas" },
+          { "name": "Leche de Coco", "quantity": "50 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Cuba Libre",
+        "ingredients": [
+          { "name": "Ron", "quantity": "50 ml" },
+          { "name": "Coca Cola", "quantity": "150 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Martini de Fresa",
+        "ingredients": [
+          { "name": "Vodka", "quantity": "50 ml" },
+          { "name": "Frutilla", "quantity": "4 unidades" },
+          { "name": "Azúcar", "quantity": "1 cucharada" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Spritz de Naranja",
+        "ingredients": [
+          { "name": "Vino", "quantity": "100 ml" },
+          { "name": "Naranja", "quantity": "50 ml de jugo" },
+          { "name": "Sprite", "quantity": "50 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Berry Smash",
+        "ingredients": [
+          { "name": "Gin", "quantity": "50 ml" },
+          { "name": "Arándanos", "quantity": "20 gr" },
+          { "name": "Jarabe de Arándanos", "quantity": "20 ml" },
+          { "name": "Soda", "quantity": "100 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      }
+    ]
+  }
+  
