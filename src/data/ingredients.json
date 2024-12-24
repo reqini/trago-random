@@ -1,98 +1,168 @@
 {
     "cocktails": [
       {
-        "name": "Mojito",
+        "name": "Negroni",
         "ingredients": [
-          { "name": "Ron", "quantity": "50 ml" },
-          { "name": "Lima/Limón", "quantity": "40 ml de jugo" },
-          { "name": "Menta", "quantity": "8 hojas" },
-          { "name": "Azúcar", "quantity": "2 cucharadas" },
-          { "name": "Soda", "quantity": "100 ml" },
-          { "name": "Hielo", "quantity": "4 cubos" }
+          { "name": "Gin", "quantity": "30 ml" },
+          { "name": "Campari", "quantity": "30 ml" },
+          { "name": "Cinzano Rosso", "quantity": "30 ml" }
         ]
       },
       {
-        "name": "Caipirinha",
+        "name": "Americano",
         "ingredients": [
-          { "name": "Cachaça", "quantity": "50 ml" },
-          { "name": "Lima/Limón", "quantity": "40 ml de jugo" },
-          { "name": "Azúcar", "quantity": "2 cucharadas" },
-          { "name": "Hielo", "quantity": "4 cubos" }
+          { "name": "Campari", "quantity": "30 ml" },
+          { "name": "Cinzano Rosso", "quantity": "30 ml" },
+          { "name": "Soda", "quantity": "30 ml" }
         ]
       },
       {
-        "name": "Daiquiri de Fresa",
+        "name": "Vodka Tonic",
         "ingredients": [
-          { "name": "Ron", "quantity": "50 ml" },
-          { "name": "Frutilla", "quantity": "5 unidades" },
-          { "name": "Azúcar", "quantity": "2 cucharadas" },
-          { "name": "Lima/Limón", "quantity": "30 ml de jugo" },
-          { "name": "Hielo", "quantity": "4 cubos" }
+          { "name": "Vodka", "quantity": "50 ml" },
+          { "name": "Tónica", "quantity": "150 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" }
         ]
       },
       {
-        "name": "Tequila Sunrise",
-        "ingredients": [
-          { "name": "Tequila", "quantity": "50 ml" },
-          { "name": "Naranja", "quantity": "100 ml de jugo" },
-          { "name": "Jarabe de Arándanos", "quantity": "10 ml" },
-          { "name": "Hielo", "quantity": "4 cubos" }
-        ]
-      },
-      {
-        "name": "Gin Tonic",
+        "name": "Dry Martini",
         "ingredients": [
           { "name": "Gin", "quantity": "50 ml" },
-          { "name": "Lima/Limón", "quantity": "1 rodaja" },
+          { "name": "Cinzano Dry", "quantity": "10 ml" },
+          { "name": "Aceituna", "quantity": "1 unidad" }
+        ]
+      },
+      {
+        "name": "Spritz",
+        "ingredients": [
+          { "name": "Campari", "quantity": "60 ml" },
+          { "name": "Vino Espumante", "quantity": "90 ml" },
+          { "name": "Soda", "quantity": "30 ml" }
+        ]
+      },
+      {
+        "name": "Gimlet",
+        "ingredients": [
+          { "name": "Gin", "quantity": "60 ml" },
+          { "name": "Zumo de Lima", "quantity": "30 ml" },
+          { "name": "Azúcar", "quantity": "1 cucharadita" }
+        ]
+      },
+      {
+        "name": "Campari Orange",
+        "ingredients": [
+          { "name": "Campari", "quantity": "50 ml" },
+          { "name": "Jugo de Naranja", "quantity": "100 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Vodka Martini",
+        "ingredients": [
+          { "name": "Vodka", "quantity": "50 ml" },
+          { "name": "Cinzano Dry", "quantity": "10 ml" },
+          { "name": "Aceituna", "quantity": "1 unidad" }
+        ]
+      },
+      {
+        "name": "Sour de Campari",
+        "ingredients": [
+          { "name": "Campari", "quantity": "60 ml" },
+          { "name": "Zumo de Limón", "quantity": "30 ml" },
+          { "name": "Clara de Huevo", "quantity": "1 unidad" },
+          { "name": "Azúcar", "quantity": "2 cucharaditas" }
+        ]
+      },
+      {
+        "name": "Cinzano Frizz",
+        "ingredients": [
+          { "name": "Cinzano Rosso", "quantity": "50 ml" },
           { "name": "Soda", "quantity": "150 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Gin Fizz",
+        "ingredients": [
+          { "name": "Gin", "quantity": "50 ml" },
+          { "name": "Zumo de Limón", "quantity": "30 ml" },
+          { "name": "Soda", "quantity": "90 ml" },
+          { "name": "Azúcar", "quantity": "2 cucharaditas" }
+        ]
+      },
+      {
+        "name": "Vodka Cranberry",
+        "ingredients": [
+          { "name": "Vodka", "quantity": "50 ml" },
+          { "name": "Zumo de Arándanos", "quantity": "100 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" }
+        ]
+      },
+      {
+        "name": "Campari Soda",
+        "ingredients": [
+          { "name": "Campari", "quantity": "50 ml" },
+          { "name": "Soda", "quantity": "150 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Vermouth con Naranja",
+        "ingredients": [
+          { "name": "Cinzano Rosso", "quantity": "50 ml" },
+          { "name": "Jugo de Naranja", "quantity": "100 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Tom Collins",
+        "ingredients": [
+          { "name": "Gin", "quantity": "50 ml" },
+          { "name": "Zumo de Limón", "quantity": "30 ml" },
+          { "name": "Soda", "quantity": "100 ml" },
+          { "name": "Azúcar", "quantity": "2 cucharaditas" }
+        ]
+      },
+      {
+        "name": "Cinzano Rosso con Lima",
+        "ingredients": [
+          { "name": "Cinzano Rosso", "quantity": "60 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" },
+          { "name": "Soda", "quantity": "100 ml" }
+        ]
+      },
+      {
+        "name": "Margarita",
+        "ingredients": [
+          { "name": "Tequila", "quantity": "50 ml" },
+          { "name": "Cinzano Dry", "quantity": "20 ml" },
+          { "name": "Zumo de Limón", "quantity": "20 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Vino con Soda",
+        "ingredients": [
+          { "name": "Vino Tinto", "quantity": "150 ml" },
+          { "name": "Soda", "quantity": "50 ml" },
+          { "name": "Hielo", "quantity": "4 cubos" }
+        ]
+      },
+      {
+        "name": "Gin Tonic con Romero",
+        "ingredients": [
+          { "name": "Gin", "quantity": "50 ml" },
+          { "name": "Tónica", "quantity": "150 ml" },
           { "name": "Romero", "quantity": "1 rama" },
           { "name": "Hielo", "quantity": "4 cubos" }
         ]
       },
       {
-        "name": "Piña Colada",
-        "ingredients": [
-          { "name": "Ron", "quantity": "50 ml" },
-          { "name": "Durazno", "quantity": "30 ml de puré" },
-          { "name": "Azúcar", "quantity": "2 cucharadas" },
-          { "name": "Leche de Coco", "quantity": "50 ml" },
-          { "name": "Hielo", "quantity": "4 cubos" }
-        ]
-      },
-      {
-        "name": "Cuba Libre",
-        "ingredients": [
-          { "name": "Ron", "quantity": "50 ml" },
-          { "name": "Coca Cola", "quantity": "150 ml" },
-          { "name": "Lima/Limón", "quantity": "1 rodaja" },
-          { "name": "Hielo", "quantity": "4 cubos" }
-        ]
-      },
-      {
-        "name": "Martini de Fresa",
+        "name": "Vodka con Sprite",
         "ingredients": [
           { "name": "Vodka", "quantity": "50 ml" },
-          { "name": "Frutilla", "quantity": "4 unidades" },
-          { "name": "Azúcar", "quantity": "1 cucharada" },
-          { "name": "Hielo", "quantity": "4 cubos" }
-        ]
-      },
-      {
-        "name": "Spritz de Naranja",
-        "ingredients": [
-          { "name": "Vino", "quantity": "100 ml" },
-          { "name": "Naranja", "quantity": "50 ml de jugo" },
-          { "name": "Sprite", "quantity": "50 ml" },
-          { "name": "Hielo", "quantity": "4 cubos" }
-        ]
-      },
-      {
-        "name": "Berry Smash",
-        "ingredients": [
-          { "name": "Gin", "quantity": "50 ml" },
-          { "name": "Arándanos", "quantity": "20 gr" },
-          { "name": "Jarabe de Arándanos", "quantity": "20 ml" },
-          { "name": "Soda", "quantity": "100 ml" },
+          { "name": "Sprite", "quantity": "150 ml" },
+          { "name": "Lima/Limón", "quantity": "1 rodaja" },
           { "name": "Hielo", "quantity": "4 cubos" }
         ]
       }
